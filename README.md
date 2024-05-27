@@ -4,13 +4,13 @@
   <meta charset="UTF-8">
 </head>
 <body>
-  <img src="" alt="Banner"/>
+  <img src="https://github.com/AK-147/Patient-Flow/blob/main/Patient%20Flow%20Banner.png?raw=true" alt="Banner"/>
   
   <h2>:book: Description</h2>
   <ul>
     <li>:hospital: An interactive analytics dashboard modelling waitlist sizes for hospitals across Ontario from 2018 to 2021.</li>
-    <li>:ambulance: Includes a complementary document that discusses and optimizes the quality of emergency room waiting times.</li>
-    <li>:books: Produced as the cumulative final project for university course of quality control and improvement.</li>
+    <li>:ambulance: Includes a complementary document that discusses and optimizes emergency room waiting times.</li>
+    <li>:books: Produced as the cumulative final project for university quality control and improvement course.</li>
   </ul>
 
   <h2>:file_folder: Contents</h2>
